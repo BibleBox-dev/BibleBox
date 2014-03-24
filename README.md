@@ -1,20 +1,20 @@
 ###########################################################################
 #
 # BibleBox 
-#
-# The BibleBox combines: 
-#     - a small wifi access point (TPLink MR3040 or TPLink MR3020), 
-#     - a USB drive containing digital Bible resources for sharing and software which provides 
-#     - a webpage interface to the shared resources and a user chat feature.
 
-# based on Librarybox v2
-# based on mkPirateBox v0.3-2
-#
-# Customisation files that alter the UI of Librarybox to create a BibleBox
-#
-# 
-# BibleBox customisations conceived and created by Campbell Smythe <smythec@gmail.com>
-# Released under GPLv2, see http://www.gnu.org/licenses/gpl-2.0.html
+The BibleBox combines: 
+    - a small wifi access point (TPLink MR3040 or TPLink MR3020), 
+    - a USB drive containing digital Bible resources for sharing and software which provides 
+    - a webpage interface to the shared resources and a user chat feature.
+
+based on Librarybox v2
+based on mkPirateBox v0.3-2
+
+Customisation files that alter the UI of Librarybox to create a BibleBox
+
+
+BibleBox customisations conceived and created by Campbell Smythe <smythec@gmail.com>
+Released under GPLv2, see http://www.gnu.org/licenses/gpl-2.0.html
 
 FEATURES:
   - A download-only BibleBox, based on the Piraebox project by NYU Professor David Darts.
